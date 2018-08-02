@@ -55,3 +55,7 @@ function removeElementFromBeginningOfArray(array) {
   var copy = [...array];
   return copy.slice(-2)
 }
+
+function destructivelyRemoveElementFromEndOfArray(array) {
+  
+}
